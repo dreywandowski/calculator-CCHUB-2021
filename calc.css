@@ -1,0 +1,116 @@
+body{
+background-color:skyblue;
+font-family: cambria;
+width: 70%;
+}
+
+form{
+	background-color: black;
+	border-radius: 10px;
+	border: solid black;
+	color: black;
+	width: 40%;
+	height: 80%;
+	margin-left: 20%;
+	margin-top: 10%;
+}
+
+.numbers{
+	background-color: seagreen;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+#add{
+	background-color: maroon; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#add{
+	background-color: maroon; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#subtract{
+	background-color: tomato; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#multiply{
+	background-color: gray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#divide{
+	background-color: Turquoise;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#equal{
+	background-color: gold; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+#clear{
+	background-color: darkkhaki; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+
+input{
+	margin: 10px;
+}
+
+#result{
+	width: 80%;
+	height: 30px;
+}
+
