@@ -3,4 +3,4 @@ This simulates/emulates a real-life calculator, complete with add, multiply, div
 
 # My entry for the 2021 CCHUB Graduate Trainee Program
 
-# Live link: https://adura.xyz/calc
+# Live link: https://dreywandowski.xyz/calc
